@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(25, 126, 228);
+}
+h1 {
+    text-align: center;
+}
+.superior {
+    background-color: aqua;
+}
+.primer-celda {
+    border: white 5px solid;
+    border-top-left-radius: 10%;
+}
+.segunda-celda {
+    border: white 5px solid;
+    border-top-right-radius: 10%;
+}
